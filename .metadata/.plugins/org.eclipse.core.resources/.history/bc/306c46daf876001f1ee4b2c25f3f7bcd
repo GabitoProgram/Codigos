@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Main {
+	public static void main(String[] args) {
+		int a = 0;
+		int b = 1;
+		int n= lee.nexInt();
+		for(int i=0;i<n;i++) {
+			
+		}
+		
+	}
+}

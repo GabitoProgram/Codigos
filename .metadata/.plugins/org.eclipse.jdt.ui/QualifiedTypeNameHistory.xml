@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Archivo"/>
+    <fullyQualifiedTypeName name="PilaA"/>
+    <fullyQualifiedTypeName name="Leer"/>
+    <fullyQualifiedTypeName name="Ventas"/>
+    <fullyQualifiedTypeName name="Productos"/>
+    <fullyQualifiedTypeName name="ColaCircularP"/>
+    <fullyQualifiedTypeName name="ColaSimpleV"/>
+    <fullyQualifiedTypeName name="PilaC"/>
+    <fullyQualifiedTypeName name="Cliente"/>
+    <fullyQualifiedTypeName name="Pilas.PilaC"/>
+    <fullyQualifiedTypeName name="ColaCircular.ColaCircularC"/>
+    <fullyQualifiedTypeName name="MultiPila.Leer"/>
+    <fullyQualifiedTypeName name="MultiPila.MultiPilaL"/>
+    <fullyQualifiedTypeName name="MultiPila.PilaL"/>
+    <fullyQualifiedTypeName name="MultiPila.Libro"/>
+    <fullyQualifiedTypeName name="ColaCircular.Leer"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="ListaSimpleNormal.ListaSimpleN"/>
+    <fullyQualifiedTypeName name="ListaSimpleNormal.NodoN"/>
+    <fullyQualifiedTypeName name="ListasSimpleCircular.NodoN"/>
+    <fullyQualifiedTypeName name="ListasSimpleCircular.ListaSimpleCircularN"/>
+    <fullyQualifiedTypeName name="ListaDoblesSimples.ListaDobleSimpleN"/>
+    <fullyQualifiedTypeName name="ListaDoblesSimples.NodoN"/>
+    <fullyQualifiedTypeName name="ListaDoblesCircular.ListaDobleCN"/>
+    <fullyQualifiedTypeName name="ListaDoblesCircular.NodoN"/>
+    <fullyQualifiedTypeName name="Arbol.NodoA"/>
+    <fullyQualifiedTypeName name="java.util.AbstractCollection"/>
+    <fullyQualifiedTypeName name="Arbol.ArbolBinario"/>
+</qualifiedTypeNameHistroy>
